@@ -1,7 +1,7 @@
- HElLO 👋
+ HELLO👋
 
 
-- 🔭 I’m currently working on Java FullStack
+- 🔭 I’m currently working Intern at Codegnan
 - 🌱 I’m currently learning  Java FullStack
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with AI
